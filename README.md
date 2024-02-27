@@ -1,6 +1,6 @@
 # My Developer Profile
 
-![Jizdan.jpg](IMG_20230226_134839_563.jpeg)
+!(IMG_20230226_134839_563.jpg)
 
 ## Tentang Saya
 
