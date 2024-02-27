@@ -1,6 +1,6 @@
 # My Developer Profile
 
-!(IMG_20230226_134839_563.jpg)
+![myphoto](IMG_20230226_134839_563.jpg)
 
 ## Tentang Saya
 
