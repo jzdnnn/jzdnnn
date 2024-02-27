@@ -1,6 +1,6 @@
 # My Developer Profile
 
-![IMG_20230226_134839_563](https://github.com/jzdnnn/jzdnnn/assets/97737462/db5457de-79d2-4c30-b3b8-0eaffde347cf)
+<img src="img/IMG_20230226_134839_563.jpg" alt="Foto Profil" width="200" height="200" style="margin: auto;">
 
 ## Tentang Saya
 
