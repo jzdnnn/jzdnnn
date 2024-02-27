@@ -6,16 +6,16 @@ Halo, Selamat datang di profil GitHub saya! Saya seorang mahasiswa Politeknik Ne
 
 ## Pendidikan
 
-Sekolah Dasar Negeri Paminggir IV Garut     (2011 - 2017)
-Sekolah Menengah Pertama Negeri 4 Garut     (2017 - 2020)
-Sekolah Menengah Atas Negeri 1 Garut        (2020 - 2023)
-Politeknik Negeri Bandung                   (2023 - Now)
++ Sekolah Dasar Negeri Paminggir IV Garut     (2011 - 2017)
++ Sekolah Menengah Pertama Negeri 4 Garut     (2017 - 2020)
++ Sekolah Menengah Atas Negeri 1 Garut        (2020 - 2023)
++ Politeknik Negeri Bandung                   (2023 - Now)
 
 ## Menghubungi Saya
 
-Email       : jzdnnn91@gmail.com
-Whatsapp    : +62 813 2403 6672
-Instagram   : @jzdnnn_
++ Email       : jzdnnn91@gmail.com
++ Whatsapp    : +62 813 2403 6672
++ Instagram   : @jzdnnn_
 
 Terima kasih telah mengunjungi profil saya!
 <!--
