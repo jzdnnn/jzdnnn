@@ -1,8 +1,8 @@
 # My Developer Profile
 
-## Tentang Saya 👋
+## Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa Politeknik Negeri Bandung dari Jurusan Teknik Komputer dan Informatika dan Program Studi D4 Teknik Informatika. Saya berasal dari Kabupaten Garut dengan harapan bisa menimba ilmu di Politeknik Negeri Bandung, sehingga saya bisa menjadi seorang ahli dalam bidang Informatika.
+Halo, Selamat datang di profil GitHub saya! Saya seorang mahasiswa Politeknik Negeri Bandung dari Jurusan Teknik Komputer dan Informatika dan Program Studi D4 Teknik Informatika. Saya berasal dari Kabupaten Garut dengan harapan bisa menimba ilmu di Politeknik Negeri Bandung, sehingga saya bisa menjadi seorang ahli dalam bidang Informatika.
 
 ## Pendidikan
 
